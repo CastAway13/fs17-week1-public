@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Thien Bach 👋
 
 ## About Me
 I am a passionate software developer with a strong skill set in the following technologies:
