@@ -3,7 +3,7 @@
 ## About Me
 I am a passionate software developer with a strong skill set in the following technologies:
 
-- **React**
+- **ReactJS**
 - **C#**
 - **JavaScript**
 
